@@ -8,5 +8,5 @@ Kroki:
 - Nagrywamy całą zawartość katalogu na dysk lub dysk optyczny.
 - Po nagraniu możemy uruchomić ten program i zweryfikować dane poprzez naciśnięcie przycisku "Weryfikuj pliki, które zostały nagrane".
 - Katalog może również zostać skopiowany z nośnika na komputer a potem zweryfikowany.
-- 
+
 ![alt text](https://github.com/radsw/crcVer/blob/main/Bez%20nazwy.png?raw=true)
